@@ -1,0 +1,13 @@
+target/
+.idea/
+*.iml
+*.log
+.classpath
+.project
+.settings/
+bin/
+logs/
+.DS_Store
+/tiny.ipr
+/tiny.iws
+*.attach_pid*
